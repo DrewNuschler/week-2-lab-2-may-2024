@@ -36,6 +36,7 @@ You may choose to do a bonus or extension. These are optional activities that wi
 ## Contact
 
 Author: robert.mccreary@codex.academy
+Auther: Andrew Nuschler. lookup1929@gmail.com.
 
 ## Acknowledgements
 
