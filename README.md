@@ -20,9 +20,9 @@ A simple HTML page about me and my hobby.
 - [x] Create gallery.html
 - [x] Add 3 pictures
 - [x] Create about.html
-- [ ] Create 2 lists
-- [ ] Add a tags to link the pages together
-- [ ] Review pages for errors (missing closing tags or missing characters like = " or &gt;)
+- [x] Create 2 lists
+- [x] Add a tags to link the pages together
+- [x] Review pages for errors (missing closing tags or missing characters like = " or &gt;)
 
 ### Bonus and Extension
 
