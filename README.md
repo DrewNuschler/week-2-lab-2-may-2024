@@ -16,8 +16,8 @@ A simple HTML page about me and my hobby.
 - [x] Create Readme
 - [x] Create index.html
 - [x] Update README author
-- [ ] Update Home page (index.html with my info)
-- [ ] Create gallery.html
+- [x] Update Home page (index.html with my info)
+- [x] Create gallery.html
 - [ ] Add 3 pictures
 - [ ] Create about.html
 - [ ] Create 2 lists
